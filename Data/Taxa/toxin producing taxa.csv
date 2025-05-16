@@ -1,0 +1,96 @@
+Group,Subgroup,Genus_orig,References,Taxon,InTitan
+Neurotoxin,Saxitoxin,Anagnostidinema,Greenwater Labs Training 2020,,FALSE
+Taste and odor,Geosmin,Aphanizomenon,Greenwater Labs Training 2020,,FALSE
+Taste and odor,Geosmin,Geitlerinema,Greenwater Labs Training 2020,,TRUE
+Taste and odor,Geosmin,Leibleinia,Greenwater Labs Training 2020,,TRUE
+Neurotoxin,Anatoxin,Aphanizomenon,Greenwater Labs Training 2020,,FALSE
+Taste and odor,Geosmin,Phormidium,Greenwater Labs Training 2020,,TRUE
+Neurotoxin,Saxitoxin,Aphanizomenon,Greenwater Labs Training 2020; EPA website,,FALSE
+Hepatotoxin,Cylindrospermopsin,Aphanizomenon,Greenwater Labs Training 2020; EPA website,,FALSE
+Taste and odor,Geosmin,Tychonema,Greenwater Labs Training 2020,,TRUE
+Neurotoxin,Anatoxin,Arthrospira,Greenwater Labs Training 2020,,FALSE
+Hepatotoxin,Microcystin,Arthrospira,Greenwater Labs Training 2020,,FALSE
+Hepatotoxin,Cylindrospermopsin,Chrysoporum,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Anatoxin,Chrysosporum/Aphanizomenon,EPA website,,FALSE
+Taste and odor,MIB,Phormidium,Greenwater Labs Training 2020,,TRUE
+Neurotoxin,Anatoxin,Cuspidothrix,Greenwater Labs Training 2020; EPA website,,FALSE
+Hepatotoxin,Microcystin,Cyanobium,Greenwater Labs Training 2020,,FALSE
+Taste and odor,MIB,Tychonema,Greenwater Labs Training 2020,,TRUE
+Neurotoxin,Anatoxin,Cylindrospermum,EPA website,,FALSE
+Neurotoxin,Saxitoxin,Cylindrospermum,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Anatoxin,Anabaena,Greenwater Labs Training 2020; EPA website,,TRUE
+Neurotoxin,Anatoxin,Dolichospermum,EPA website,,FALSE
+Taste and odor,Geosmin,Dolichospermum,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Anatoxin,Dolichospermum,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Saxitoxin,Dolichospermum,Greenwater Labs Training 2020; EPA website,,FALSE
+Hepatotoxin,Microcystin,Dolichospermum,Greenwater Labs Training 2020; EPA website,,FALSE
+Hepatotoxin,Cylindrospermopsin,Dolichospermum,EPA website,,FALSE
+Hepatotoxin,Microcystin,Fischerella,EPA website,,FALSE
+Hepatotoxin,Microcystin,Gloeotrichia,Greenwater Labs Training 2020; EPA website,,FALSE
+Hepatotoxin,Microcystin,Hapalosiphon,Greenwater Labs Training 2020,,FALSE
+Hepatotoxin,Cylindrospermopsin,Hormoscilla,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Anatoxin,Phormidium,Greenwater Labs Training 2020; EPA website,,TRUE
+Hepatotoxin,Nodularin,Iningainema,Greenwater Labs Training 2020,,FALSE
+Taste and odor,MIB,Jaaginema,Greenwater Labs Training 2020,,FALSE
+Hepatotoxin,Microcystin,Leptolyngbya,Greenwater Labs Training 2020,,TRUE
+Hepatotoxin,Microcystin,Limnothrix,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Saxitoxin,Lyngbya,EPA website,,FALSE
+Taste and odor,MIB,Lyngbya,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Anatoxin,Tychonema,Greenwater Labs Training 2020; EPA website,,TRUE
+Hepatotoxin,Cylindrospermopsin,Lyngbya,EPA website,,FALSE
+Taste and odor,Geosmin,Microcoleus,Greenwater Labs Training 2020,,FALSE
+Taste and odor,MIB,Microcoleus,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Anatoxin,Microcoleus (Phormidium-like),Greenwater Labs Training 2020,,FALSE
+Taste and odor,Sulfur compounds,Microcystis,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Anatoxin,Microcystis,EPA website,,FALSE
+Hepatotoxin,Microcystin,Microcystis,Greenwater Labs Training 2020; EPA website,,FALSE
+Neurotoxin,Saxitoxin,Phormidium,Greenwater Labs Training 2020,,TRUE
+Hepatotoxin,Cylindrospermopsin,Microseira,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Saxitoxin,Microseira (Lyngbya),Greenwater Labs Training 2020,,FALSE
+Dermatotoxin,Dermatotoxin,Moorea,Greenwater Labs Training 2020,,FALSE
+Hepatotoxin,Microcystin,Nodularia,EPA website,,FALSE
+Hepatotoxin,Microcystin,Anabaena,Greenwater Labs Training 2020,,TRUE
+Hepatotoxin,Microcystin,Aphanocapsa,Greenwater Labs Training 2020,,TRUE
+Hepatotoxin,Nodularin,Nodularia,Greenwater Labs Training 2020,,FALSE
+Taste and odor,MIB,Oscillatoria,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Anatoxin,Oscillatoria,EPA website,,FALSE
+Hepatotoxin,Microcystin,Geitlerinema,Greenwater Labs Training 2020,,TRUE
+Hepatotoxin,Microcystin,Oscillatoria,Greenwater Labs Training 2020; EPA website,,FALSE
+Taste and odor,Geosmin,Planktothrix,Greenwater Labs Training 2020,,FALSE
+Taste and odor,MIB,Planktothrix,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Anatoxin,Planktothrix,Greenwater Labs Training 2020; EPA website,,FALSE
+Neurotoxin,Saxitoxin,Planktothrix,EPA website,,FALSE
+Hepatotoxin,Microcystin,Nostoc,Greenwater Labs Training 2020,,TRUE
+Hepatotoxin,Microcystin,Planktothrix,Greenwater Labs Training 2020; EPA website,,FALSE
+Hepatotoxin,Microcystin,Phormidium,Greenwater Labs Training 2020,,TRUE
+Taste and odor,Geosmin,Pseudanabaena,Greenwater Labs Training 2020,,FALSE
+Taste and odor,MIB,Pseudanabaena,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Anatoxin,Pseudanabaena,Greenwater Labs Training 2020,,FALSE
+Hepatotoxin,Microcystin,Pseudanabaena,Greenwater Labs Training 2020,,FALSE
+Hepatotoxin,Microcystin,Raiocystis,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Saxitoxin,Raphidiopsis,Greenwater Labs Training 2020; EPA website,,FALSE
+Hepatotoxin,Microcystin,Tolypothrix,Greenwater Labs Training 2020,,TRUE
+Hepatotoxin,Cylindrospermopsin,Raphidiopsis,Greenwater Labs Training 2020; EPA website,,FALSE
+Neurotoxin,Anatoxin,Raphidiopsis (Cylindrospermopsis-like),Greenwater Labs Training 2020; EPA website,,FALSE
+Hepatotoxin,Microcystin,Rivularia,Greenwater Labs Training 2020,,FALSE
+Dermatotoxin,Dermatotoxin,Schizothrix,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Saxitoxin,Scytonema,Greenwater Labs Training 2020,,FALSE
+Dermatotoxin,Dermatotoxin,Scytonematopsis,Greenwater Labs Training 2020,,FALSE
+Hepatotoxin,Nodularin,Nostoc,Greenwater Labs Training 2020,,TRUE
+Hepatotoxin,Cylindrospermopsin,Anabaena,Greenwater Labs Training 2020,,TRUE
+Hepatotoxin,Microcystin,Snowella,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Anatoxin,Sphaerospermopsis (Dolicospermopsis-like),Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Saxitoxin,Suspidothrix,Greenwater Labs Training 2020,,FALSE
+Dermatotoxin,Dermatotoxin,Symploca,Greenwater Labs Training 2020,,FALSE
+Hepatotoxin,Cylindrospermopsin,Phormidium,Greenwater Labs Training 2020,,TRUE
+Taste and odor,Sulfur compounds,Synechococcus,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Anatoxin,Synechocystis,Greenwater Labs Training 2020,,FALSE
+Hepatotoxin,Microcystin,Synechocystis,Greenwater Labs Training 2020,,FALSE
+Neurotoxin,Anatoxin,Trichormus,Greenwater Labs Training 2020,,FALSE
+Dermatotoxin,Dermatotoxin,Leibleinia,Greenwater Labs Training 2020,,TRUE
+Hepatotoxin,Microcystin,Trichormus,Greenwater Labs Training 2020,,FALSE
+Dermatotoxin,Dermatotoxin,Nostoc,Greenwater Labs Training 2020,,TRUE
+Dermatotoxin,Dermatotoxin,Phormidium,Greenwater Labs Training 2020,,TRUE
+Hepatotoxin,Cylindrospermopsin,Umezakia,Greenwater Labs Training 2020; EPA website,,FALSE
+Neurotoxin,Anatoxin,Woronichinia,EPA website,,FALSE
+Hepatotoxin,Microcystin,Woronichinia,Greenwater Labs Training 2020,,FALSE
